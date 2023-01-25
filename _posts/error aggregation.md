@@ -30,7 +30,7 @@ Mac OS 下有自带的[ruby](https://jekyllrb.com/docs/installation/macos/#insta
 
 [转载 - Jekyll - 静态网站生成器教程双语字幕](https://www.bilibili.com/video/BV1qs41157ZZ?p=3&vd_source=e46056bc7d9f1edd0a9e7ea21324c0fe)
 
-[使用 Jekyll 部署 GitHub Pages][
+[使用 Jekyll 部署 GitHub Pages]
 (https://www.bilibili.com/video/BV1C14y187Nh/?spm_id_from=333.999.0.0&vd_source=e46056bc7d9f1edd0a9e7ea21324c0fe)
 
 我没用mac是因为自带的ruby版本过低，但我这边的环境缺少一些东西，升级ruby需要安装[Homebrew](https://brew.sh/)，安装homebrew又需要下载苹果一个开发插件【跟俄罗斯套娃似的，不玩了(／‵口′)／~ ╧╧ 】
