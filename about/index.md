@@ -3,4 +3,4 @@ layout: page
 type: about
 ---
 
-Building...
+Long-term explorer and short-term opportunist. 寻找一丝灵气。
