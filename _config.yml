@@ -5,9 +5,9 @@
 
 # Site
 title: Cui Bono
-subtitle:
-description: have a nice day
-author: 
+subtitle: 
+description: 
+author: Zero
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -227,13 +227,13 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
+  #Twitter: twitter
   Weibo: weibo
 
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: in directory: /assets/images/head.jpeg
 
 
 # Table Of Contents in the Sidebar
@@ -264,8 +264,8 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  display: post
-  #display: always
+  #display: post
+  display: always
   #display: hide
   #display: remove
 
