@@ -1,4 +1,10 @@
-# 一样都是建site，怎么就我问题多
+---
+title: 一样都是建site，怎么就我问题多
+categories: 
+- Prerequisite 
+tags:
+- Prerequisite
+---
 
 我用的是基于 Jekyll 的 NexT-theme 来建 GitHub page。
 
@@ -12,6 +18,8 @@
 wins 10 【指令主要通过 CMD 运行（run as admin，主要为了避免 permission 问题） 】
 
 ruby 2.5.9
+
+# Section 1.0
 
 [Jekyll](https://jekyllrb.com/) 是由 Ruby 语言开发而成的网站搭建工具。类似工具还有Hexo（Hexo-NexT 能装的插件更多一点）。
 
@@ -30,6 +38,9 @@ Mac OS 下有自带的ruby，网上搜一下教程，找到了两个视频还蛮
 下载后如何安装ruby的问题，网上的截图、视频教程很多，这里就不多占空间解释了。
 
 建议在安装选择的时候把1、2、3全装了，我一开始偷懒只安装了1（basic install），后来装 jekyll 的时候怎么都会有报错，后来就干脆把它全装完整，至少先排除不是 ruby install 导致的故障。
+---
+# Section 2.1
+
 
 ```ruby
 $ ruby --version
@@ -48,8 +59,7 @@ ERROR ①：'ruby' 不是内部或外部命令，也不是可运行的程序或�
 
 【在哪安装的ruby就输入哪个路径，记得重启一下cmd实在不行就重启电脑吧，我打开环境变量后发现我有四个ruby的安装路径，把其他三个都删了之后终于正常了。】
 
----
-
+# Section 2.2
 
 
 ```ruby
@@ -142,10 +152,7 @@ bundler requires Rubyversion >= 2.6.0. The current ruby version is 2.5.0.
 
 ````
 
-
-
-----
-
+# Section 2.3
 
 
 ```ruby
@@ -197,7 +204,8 @@ $ bundle config mirror.https://rubygems.org https://gems.ruby-china.com
 
 ![WechatIMG20](/Users/jiaqili/Desktop/WechatIMG20.png)
 
-----
+# Section 2.4
+
 
 ````ruby
 $ bundle exec jekyll server
@@ -276,9 +284,7 @@ Successfully uninstalled public_suffix-4.0.7
 >
 > https://github.com/Simpleyyt/jekyll-theme-next/issues/19
 
----
-
-
+# Section 2.5
 
 ```
 $ Jekyll serve 跑起来!!!
@@ -290,7 +296,7 @@ $ Jekyll serve 跑起来!!!
 
 ![WechatIMG50](/Users/jiaqili/Desktop/WechatIMG50.png)
 
-写在最后……
+# Section 3.0 -- end
 
 1. 不要只顾着修 error 而离自己的预期目标越来越远，被 error 带着跑蛮容易偏离原轨。
 
