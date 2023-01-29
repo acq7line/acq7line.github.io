@@ -2,10 +2,7 @@
 title: A Law Student's Toolkit I 
 description: 法律系学生的工具——耶鲁大学法学院
 date: 2023-01-29 12:16:50
-categories:
-- law study
-- cousera
-- Note
+categories: [law study,cousera,Note]
 tags:
 - Toolkit
 - law school
