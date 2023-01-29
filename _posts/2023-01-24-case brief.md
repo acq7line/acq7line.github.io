@@ -1,9 +1,10 @@
 ---
 title: Case Brief
-description: Notes from 西北大学法学院https://wwws.law.northwestern.edu/
+description: Notes from Northwestern University, School of Law (https://wwws.law.northwestern.edu/)
 date: 2023-01-24 08:20:50
 categories:
-- case
+- Note
+- law study
 tags:
 - case
 - guide
