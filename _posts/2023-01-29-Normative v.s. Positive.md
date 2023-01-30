@@ -104,7 +104,7 @@ Immutable rules limit freedom of contract and this limitation is justified only 
 
 Should the law enforce such an agreement? Would a rule restricting women’s contractual freedom to enter into such an agreement be based on paternalism or externality concerns?
 
-## Substance vs. Procedure
+# Substance vs. Procedure
 
 <u>Procedural rules（程序规则/法）</u> govern how, in court, the process of litigation will be carried out.
 
@@ -139,7 +139,7 @@ Lawyers, in their interpersonal dealings, tend to become more acutely aware of t
 
 **Q2:** How does the Erie doctrine relate to the distinction between substantive and procedural law? (Hint: See Gacek v. American Airlines).
 
-## The Two-by-Two Box
+# The Two-by-Two Box
 
 Whenever you learn that the law over time, or in different jurisdictions, has taken **three different approaches** to regulation, you should ask yourself whether it's possible to display these three approaches in a two by two matrix and thereby **uncover a hidden fourth approach**.
 
@@ -147,7 +147,7 @@ Whenever you learn that the law over time, or in different jurisdictions, has ta
 
 《Property Rules, Liability Rules, and Inalienability: One View of the Cathedral》
 
-*other ref: [產權的法律保護模式](https://talkecon.com/property_protection/#:~:text=%E9%A6%96%E5%85%88%E6%8F%90%E5%87%BA%E7%94%A2%E6%AC%8A%EF%BC%88entitlement%EF%BC%89%5B,%E5%8A%A0%E4%BB%A5%E8%AE%8A%E5%BD%A2%E6%88%96%E7%B4%B0%E8%86%A9%E5%8C%96%EF%BC%8C)*
+*other ref： [產權的法律保護模式](https://talkecon.com/property_protection/#:~:text=%E9%A6%96%E5%85%88%E6%8F%90%E5%87%BA%E7%94%A2%E6%AC%8A%EF%BC%88entitlement%EF%BC%89%5B,%E5%8A%A0%E4%BB%A5%E8%AE%8A%E5%BD%A2%E6%88%96%E7%B4%B0%E8%86%A9%E5%8C%96%EF%BC%8C)*
 
 <font color='grey'># Ian's favourite law review</font>
 
