@@ -17,7 +17,7 @@ tags:
 - The **normative**（规范）, **positive**（实证） <u>dichotomy（二分法）</u> distinguishes between two different kinds of argumentation.
 - A **<font color='bluw'>normative</font>** claim is **ought** talk.
 
-**Normative** debates are about <u>what the **content** of the law **should be**</u>.
+**Normative** debates are about <u>what the ==content== of the law **should be**</u>.
 
 **Positive** analysis of law seeks to <u>identify what the law **is**</u>.
 
