@@ -4,7 +4,7 @@ description: 上篇 https://www.coursera.org/learn/law-student
 date: 2023-01-29 2:16:50
 categories:
 - law study
-- cousera
+- pre-common law overview
 - Note
 tags:
 - Toolkit
