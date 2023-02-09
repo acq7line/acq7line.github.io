@@ -5,4 +5,4 @@ type: about
 ---
 
 
-寻找一丝灵气。
+Long term  | 寻找灵气。

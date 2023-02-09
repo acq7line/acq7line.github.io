@@ -93,14 +93,14 @@ Immutable rules limit freedom of contract and this limitation is justified only 
 
  if you encounter **a mandatory rule**, you should ask yourself whether the rule can be <u>justified by paternalism or by externally concerns</u>. 
 
-→ different potential solutions to these two different concerns
+→ different potential 【solutions】 to these two different concerns
 
 - externality concerns might be alternatively solved by <font color='bluw'>giving third parties</font> a right to veto contracts that adversely affect them. Veto rights effectively make the affected parties internal to the contract.【使得受合约影响的第三方因该否决权“加入”合约】 
 - paternalism concerns might be assuaged by <font color='bluw'>improving the ability of existing contractors</font> to protect themselves, rather than by extinguishing their contractual freedoms.
 
 
 
-作业：Consider an agreement between heterosexual spouses entered into at the time of marriage in which, the woman spouse promises to notify the male spouse of any pregnancy and/or her intention to have an abortion, unless the woman in good faith believes that such notification would subject her to a risk of psychological or physical harm.
+作业：Consider an agreement between heterosexual spouses entered into at the time of marriage in which, the woman spouse <u>promises to notify the male spouse</u> of any pregnancy and/or her intention to have an abortion, unless the woman in good faith believes that such notification would subject her to a risk of psychological or physical harm.
 
 Should the law enforce such an agreement? Would a rule restricting women’s contractual freedom to enter into such an agreement be based on paternalism or externality concerns?
 
