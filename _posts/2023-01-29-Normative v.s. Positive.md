@@ -12,7 +12,7 @@ tags:
 - cousera
 ---
 
-# Normative v.s. Positive
+# 2.2 Normative v.s. Positive
 
 - The **normative**（规范）, **positive**（实证） <u>dichotomy（二分法）</u> distinguishes between two different kinds of argumentation.
 - A **<font color='bluw'>normative</font>** claim is **ought** talk.
@@ -76,7 +76,7 @@ Ian 的论点：the idea that only facts which inform normative questions are in
 
 *other reference: [实证性和规范性法理论](https://wangchongyao.wordpress.com/2023/01/27/positive_normative/)*
 
-# Paternalism vs. Externalities: Limiting Contractual Freedom
+# 2.6 Paternalism vs. Externalities: Limiting Contractual Freedom
 
 The law can limit contractual freedom by prohibiting certain kinds of contracts.
 
@@ -104,7 +104,9 @@ Immutable rules limit freedom of contract and this limitation is justified only 
 
 Should the law enforce such an agreement? Would a rule restricting women’s contractual freedom to enter into such an agreement be based on paternalism or externality concerns?
 
-# Substance vs. Procedure
+
+
+# 2.10 Substance vs. Procedure
 
 <u>Procedural rules（程序规则/法）</u> govern how, in court, the process of litigation will be carried out.
 
@@ -139,6 +141,8 @@ Lawyers, in their interpersonal dealings, tend to become more acutely aware of t
 
 **Q2:** How does the Erie doctrine relate to the distinction between substantive and procedural law? (Hint: See Gacek v. American Airlines).
 
+
+
 # The Two-by-Two Box
 
 Whenever you learn that the law over time, or in different jurisdictions, has taken **three different approaches** to regulation, you should ask yourself whether it's possible to display these three approaches in a two by two matrix and thereby **uncover a hidden fourth approach**.
@@ -147,9 +151,9 @@ Whenever you learn that the law over time, or in different jurisdictions, has ta
 
 《Property Rules, Liability Rules, and Inalienability: One View of the Cathedral》
 
-*other ref： [產權的法律保護模式](https://talkecon.com/property_protection/#:~:text=%E9%A6%96%E5%85%88%E6%8F%90%E5%87%BA%E7%94%A2%E6%AC%8A%EF%BC%88entitlement%EF%BC%89%5B,%E5%8A%A0%E4%BB%A5%E8%AE%8A%E5%BD%A2%E6%88%96%E7%B4%B0%E8%86%A9%E5%8C%96%EF%BC%8C)*
-
 <font color='grey'># Ian's favourite law review</font>
+
+*other ref： [產權的法律保護模式](https://talkecon.com/property_protection/#:~:text=%E9%A6%96%E5%85%88%E6%8F%90%E5%87%BA%E7%94%A2%E6%AC%8A%EF%BC%88entitlement%EF%BC%89%5B,%E5%8A%A0%E4%BB%A5%E8%AE%8A%E5%BD%A2%E6%88%96%E7%B4%B0%E8%86%A9%E5%8C%96%EF%BC%8C)*
 
 author：Guido Calabresi and  Doug Melamed
 
@@ -227,3 +231,127 @@ No.3:  <u>restitution damages（归还损失赔偿）</u> have the objective to 
 问题：那么rule 4是什么？
 
 Put the **party in breach** in the same position he would be in were he to **have performed** on the contract
+
+
+
+# 2.7 Property Rules v.s. Liability Rules
+
+接上篇（建议先学这篇）
+
+the contours of legal right: ① konw the <u>substantive content</u> of the right【权利的具体内涵】；② know how the right is protected
+
+ legal entitlements tend to be protected in one of two distinctive ways：
+
+- some entitlements are produced by strong **property rules** (deter third parties from non-consentually taking the entitlement)
+  - Property rule protections are <u>punitive in nature</u>【保护绝对权，惩罚性质——the threat of jail or super compensatory punitive fines】
+- other entitlements are protected by liability rules（weaker）
+  - compensate an entitlement holder for the loss of an entitlement than is non-consensually taken【对丧失某种权利的赔偿】
+
+==Property rules== are designed for deterrence of potential takers【阻止潜在的受益者继续行为】
+
+==Liability rules== are designed for compensation of potential takees. 【为愿意赔偿的潜在接受者】
+
+
+
+📚 **first task**：whenever you learn a new legal right is to ask yourself <u><font color='bluw'>how is that right protected?</font></u>
+
+
+
+<u>the law of property</u> tends to protect property rights with **<font color='bluw'>property rule </font>protections**. 
+
+<u>the law of torts</u> tend to provide **<font color='bluw'>liability rule</font> protections**.
+
+the most areas of law, including property and tort law, have deployed **mixtures of property and liability rules** with regard to <font color='bluw'>particular legal entitlements</font>.
+
+→ the extent of protection will turn on <u>who is doing the taking</u>
+
+- Your home is protected by a **property rule**——criminal trespass with regard to taking by a private citizen.
+- protected by a **liability rule**——guarantee of just compensation with regard to taking by the government——the Constitution's takings clause【宪法征收条款】
+
+→ the extent of property protection turns on <u>how the taking occurred</u>
+
+- if you intentionally take my car, then the criminal law sends you to jail
+- if you negligently destroy my car, the law of tort says that you merely have to compensate 
+
+
+
+### Transaction Cost Theory
+
+Low T.C → Property Rule【more efficient when transaction costs were low】
+
+High T.C → Liability Rule
+
+if the parties can easily contract, agree to consensually transfer an entitlement, the law is likely to, and should, protect the entitlement with **a strong property rule** to induce the parties to expressly contract
+
+如果当事人间可以轻易达成合同，同意转让权利。那么法律就更可能，也应该以通过强有力的产权法则去引导当事人达成这个契约
+
+The law's more likely to use liability rules when the parties don't have an opportunity to contract.
+
+法律采用责任法则的情况，则更多出现在当事人没有机会去达成契约。
+
+举个例子：当侵权行为发生的时候，和所有可能撞你车的司机达成一个契约，几乎是不可能的。
+
+
+
+**Transaction cost theory**: 
+
+<u>property rules</u> force takers to use market contracts when they can, 
+
+<u>liability rules</u> allow takers to mimic the market when the takers can't use the market.
+
+When transaction costs are **low**, the threat of property rule punishment channels potential takers to <u>consensual takings</u> （contracts）
+
+When transaction costs are **high**, potential takers can emulate the results of contracting by taking non-consensually,  might have been paid if the parties had had a chance to contract.
+
+
+
+#### the case of a dock owner
+
+ the owner has the entitlement to exclusively use her dock
+
+正常情况下，第三人有权利租用码头的使用权，这种权利被 property rule所保护。
+
+但在侵权法的紧急避险原则（doctrine of necessity）里，在非正常的紧急情况下，如遭遇严重风暴，此时第三人可能没有机会和码头拥有者达成契约，船东可以在未经owner同意的情况下使用码头，只需要向其支付合理的赔偿金。
+
+
+
+#### Cost of Performance Damage
+
+the normal remedy is a liability rule protection.
+
+某些情况下 contractual entitlements are protected by property rules
+
+🌰： Jacob and Youngs versus Kent
+
+the cost of replacement measure would have given future sellers strong incentives to perform. 
+
+More generally, <u>the cost of performance measure</u> will tend to deter the promisor from breeching.
+
+履行承诺的成本将阻止承诺者违约。（which measures expectation damages by how much the promiser would have to pay to perform the promise）
+
+
+
+Why breech if it doesn't save you any money?
+
+
+
+⭐️ The tool of classifying legal rules as being protected by liability or property protections can be deployed 
+
+in any legal subject, even constitutional law.
+
+
+
+📚 when you learn about <u>legal rights and entitlements</u>, you should ask how the right is protected by learning the consequences of various types, intentional versus negligent, of various types of takings by various types of people, public versus private actors. 
+
+You don't really know the value of an entitlement until you know how it's protected.
+
+在你不知道它是如何被保护之前，你不会真正了解到这项权利的价值所在。
+
+
+
+***Required Reading***
+
+- Guido Calabresi & A. Douglas Melamed, *Property Rules, Liability Rules, and Inalienability: One View of the Cathedral*, 85 Harv. L. Rev. 1089 (1972) [[Link to PDF](http://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=3043&context=fss_papers)] Read Section I-IV ONLY (pp. 1090-1124).
+- Takings Clause: U.S. Const. amend. V (*available at* [*https://www.law.cornell.edu/constitution/fifth_amendment*](https://www.law.cornell.edu/constitution/fifth_amendment)).
+- Full Faith and Credit Clause: U.S. Const. art IV, § 1 (*available at* [*https://www.law.cornell.edu/constitution/articleiv#section1*](https://www.law.cornell.edu/constitution/articleiv#section1)).
+
