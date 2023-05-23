@@ -1,10 +1,8 @@
-```
 ---
 description: 上仲、港仲、北仲、贸仲、新仲外加一些律所公开课，updating；初始资料来源：各大公众号、网络公开课
 categories: international arbitration 国际仲裁
 tags: law study
 ---
-```
 
 # 上海国际仲裁学院公开课
 
