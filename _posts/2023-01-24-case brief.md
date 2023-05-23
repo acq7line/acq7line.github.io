@@ -4,7 +4,7 @@ description: Notes from Northwestern University, School of Law (https://wwws.law
 date: 2023-01-24 08:20:50
 categories:
 - Note
-- law study
+- law_study
 tags:
 - case
 - guide
