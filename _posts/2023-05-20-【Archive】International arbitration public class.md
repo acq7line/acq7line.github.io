@@ -1,5 +1,5 @@
 ---
-description: 上仲、港仲、北仲、贸仲、新仲外加一些律所公开课，updating；初始资料来源：各大公众号、网络公开课
+description: 上仲、港仲、北仲、贸仲、新仲外加一些律所公开课，updating；初始资料来源：各大公众号、视频网站、网络公开课……
 categories: law_study
 tags: international_arbitration 国际仲裁 
 ---
@@ -48,7 +48,7 @@ tags: international_arbitration 国际仲裁
 
    
 
-5. 2023年春季课程已结束，简介如下：[欢迎报名 |《国际仲裁公开课》（2023年春）](http://mp.weixin.qq.com/s?__biz=Mzg5OTA1MTI5NQ==&mid=2247500616&idx=1&sn=e7a001780aaa8729d0cadd0862eabade&chksm=c05bb938f72c302ee066d1a46ac8f974d190edbaad4ea666c707cfc5177a8dbd345882511df6&scene=21#wechat_redirect)。
+5. 2023年春季课程已结束，简介见：[欢迎报名 |《国际仲裁公开课》（2023年春）](https://hkiac.glueup.com/event/国际仲裁公开课-2023年春-71361/)。
 
 # 新加坡国际仲裁中心线上培训课程
 
@@ -92,7 +92,7 @@ tags: international_arbitration 国际仲裁
 
    
 
-5. 链接：[回顾 2020 | 关键词：HK45](http://mp.weixin.qq.com/s?__biz=Mzg5OTA1MTI5NQ==&mid=2247488370&idx=8&sn=cd6983342895b22f7255af9ac825ac8e&chksm=c0586902f72fe014c2e7f61491b148818d3eb1d89bbf861f37118a94ed96cab4bf9977224fbc&scene=21#wechat_redirect)。
+5. 链接：[回顾 2020 | 关键词：HK45](https://reurl.cc/3x133j)。
 
 #  中国贸仲国际仲裁研究院课程
 
@@ -318,9 +318,7 @@ tags: international_arbitration 国际仲裁
 
    
 
-5. 链接：西安仲裁委员会仲裁学院第一期国内仲裁程序、第二期国际仲裁程序课程回放已全部梳理完毕，如各位老师有需要，请发送邮件至：xaacac@126.com，载明所需课程名称，并承诺该课程回放仅用于个人学习。我们收到邮件后，将及时回复。
+5. 链接：如有需要，请发送邮件至：xaacac@126.com，载明所需课程名称，并承诺该课程回放仅用于个人学习。西仲收到邮件后会及时回复。
 
-   
-
-   需要注意的是，课程回放**仅用于个人学习**，**请勿用于个人学习之外的其他场合。**
+   课程回放**仅用于个人学习**，**请勿用于个人学习之外的其他场合。**
 
