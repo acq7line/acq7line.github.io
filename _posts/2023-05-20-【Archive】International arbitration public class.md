@@ -290,7 +290,9 @@ tags: law study
 
    
 
-5. 链接：获取本课程需发送邮件至西安仲裁委索取课程回放（仲裁学院 | 国际仲裁系列课程结课鸣谢及课程回放](http://mp.weixin.qq.com/s?__biz=Mzg4OTU3ODk3OQ==&mid=2247485271&idx=4&sn=809492a189f711fbc6ed0e275b008369&chksm=cfe8f3dbf89f7acdddac7da694cb71953f0dde8560b2231158287a9e4e8668753225ffed891e&scene=21#wechat_redirect)）
+5. 链接：课程回放需发送邮件至西安仲裁委索取
+
+   [仲裁学院 | 国际仲裁系列课程结课鸣谢及课程回放](http://mp.weixin.qq.com/s?__biz=Mzg4OTU3ODk3OQ==&mid=2247485271&idx=4&sn=809492a189f711fbc6ed0e275b008369&chksm=cfe8f3dbf89f7acdddac7da694cb71953f0dde8560b2231158287a9e4e8668753225ffed891e&scene=21#wechat_redirect)
 
 
 
